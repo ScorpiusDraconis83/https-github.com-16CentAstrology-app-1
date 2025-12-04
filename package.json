@@ -21,7 +21,7 @@
     "all-contributors-cli": "^6.23.0",
     "commit-conv": "^1.0.3",
     "compromise": "^14.0.0",
-    "probot": "^13.0.0"
+    "probot": "^14.0.0"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
