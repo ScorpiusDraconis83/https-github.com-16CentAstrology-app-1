@@ -9,7 +9,7 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: gr2m/app-stats-action@v1.x
+      - uses: gr2m/app-stats-action@v1.2.16
         id: stats
         with:
           id: ${{ secrets.ALL_CONTRIBUTORS_APP_ID }}
